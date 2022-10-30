@@ -16,5 +16,6 @@
 *.kakusi.pw +direct
 82.157.251.139 +direct
 *.coding.net +direct
+*.taobao.com +direct
 
 * +proxy
