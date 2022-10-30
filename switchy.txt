@@ -1,0 +1,20 @@
+[SwitchyOmega Conditions]
+@with result
+
+172.245.126.158 +direct
+*.bilibili.com +direct
+*.tencent.com +direct
+*.baidu.com +direct
+*.xiaolincoding.com +direct
+*.leetcode.com +direct
+*.dida365.com +direct
+*.baidu.com +direct
+*.anjuke.com +direct
+*.tsinghua.edu.cn +direct
+*.huya.com +direct
+*.jd.com +direct
+*.kakusi.pw +direct
+82.157.251.139 +direct
+*.coding.net +direct
+
+* +proxy
