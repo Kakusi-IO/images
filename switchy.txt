@@ -17,5 +17,6 @@
 82.157.251.139 +direct
 *.coding.net +direct
 *.taobao.com +direct
+*.csdn.net +direct
 
 * +proxy
