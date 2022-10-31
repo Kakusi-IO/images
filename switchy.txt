@@ -6,7 +6,7 @@
 *.tencent.com +direct
 *.baidu.com +direct
 *.xiaolincoding.com +direct
-*.leetcode.com +direct
+*.leetcode.cn +direct
 *.dida365.com +direct
 *.baidu.com +direct
 *.anjuke.com +direct
