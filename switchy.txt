@@ -4,6 +4,7 @@
 172.245.126.158 +direct
 *.bilibili.com +direct
 *.tencent.com +direct
+*.qq.com +direct
 *.baidu.com +direct
 *.xiaolincoding.com +direct
 *.leetcode.cn +direct
