@@ -18,5 +18,6 @@
 *.coding.net +direct
 *.taobao.com +direct
 *.csdn.net +direct
+*.yuketang.cn +direct
 
 * +proxy
