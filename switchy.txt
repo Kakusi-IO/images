@@ -20,5 +20,7 @@
 *.taobao.com +direct
 *.csdn.net +direct
 *.yuketang.cn +direct
+*.infervision.com +direct
+39.107.86.189 +direct
 
 * +proxy
