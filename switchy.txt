@@ -23,5 +23,6 @@
 *.infervision.com +direct
 39.107.86.189 +direct
 vpn.cd120.com +direct 
+172.16.* +direct
 
 * +proxy
